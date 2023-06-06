@@ -1,7 +1,7 @@
 {
   "extends": "next/core-web-vitals",
-   "rules": {
-    "react/require-default-props": "off"
+  "rules": {
+    "react/require-default-props": "off",
+    "react/no-unescaped-entities": "off",
   }
-
 }
