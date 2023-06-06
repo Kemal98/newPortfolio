@@ -20,58 +20,56 @@ const Arhive = () => {
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 mt-10 lgl:px-10">
         <CardArhive
-          title="Educer Engligh Learing Academy"
-          des="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente
-          aliquid saepe porro consequuntur a debitis cupiditate repellat quia
-          officiis, exercitationem, voluptatem laudantium eum dolorum. Sint
-          perspiciatis fuga corporis voluptates voluptate."
-          listItem={["React", "Tailwind CSS", "sd"]}
-          link="www.google.com"
+          title="Quizzes App"
+          des="This React app allows users to create, edit, delete, and take quizzes. After the user to the application, a table with a list of all quizzes created so far is displayed on the home page, along with buttons to delete and view quizzes.
+       Clicking on the quiz view button opens a page where each question is displayed as a slide in a slideshow..."
+          listItem={["React", "Redux", "MaterialUi"]}
+          link="https://github.com/Kemal98/Quizzes-App"
         />
         <CardArhive
-          title="Educer Engligh Learing Academy"
+          title="Shopping cart"
           des="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente
           aliquid saepe porro consequuntur a debitis cupiditate repellat quia
           officiis, exercitationem, voluptatem laudantium eum dolorum. Sint
           perspiciatis fuga corporis voluptates voluptate."
-          listItem={["React", "Tailwind CSS", "sd"]}
-          link="www.google.com"
+          listItem={["React", "Bootstrap", "Typescript"]}
+          link="https://github.com/Kemal98/React-typescript-shopping-cart"
         />
         <CardArhive
-          title="Educer Engligh Learing Academy"
+          title="Movie App"
           des="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente
           aliquid saepe porro consequuntur a debitis cupiditate repellat quia
           officiis, exercitationem, voluptatem laudantium eum dolorum. Sint
           perspiciatis fuga corporis voluptates voluptate."
-          listItem={["React", "Tailwind CSS", "sd"]}
-          link="www.google.com"
+          listItem={["React", "Semantic UI", "The movie API"]}
+          link="https://github.com/Kemal98/Movie-App"
         />
         <CardArhive
-          title="Educer Engligh Learing Academy"
+          title="Coin App"
           des="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente
           aliquid saepe porro consequuntur a debitis cupiditate repellat quia
           officiis, exercitationem, voluptatem laudantium eum dolorum. Sint
           perspiciatis fuga corporis voluptates voluptate."
-          listItem={["React", "Tailwind CSS", "sd"]}
-          link="www.google.com"
+          listItem={["React", "Bootstrap", "Apexcharts"]}
+          link="https://github.com/Kemal98/Coin-App"
         />
         <CardArhive
-          title="Educer Engligh Learing Academy"
+          title="Todo List"
           des="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente
           aliquid saepe porro consequuntur a debitis cupiditate repellat quia
           officiis, exercitationem, voluptatem laudantium eum dolorum. Sint
           perspiciatis fuga corporis voluptates voluptate."
-          listItem={["React", "Tailwind CSS", "sd"]}
-          link="www.google.com"
+          listItem={["React", "Framer-motion", "Redux-toolkit"]}
+          link="https://github.com/Kemal98/Todo-List-React-Redux"
         />
         <CardArhive
-          title="Educer Engligh Learing Academy"
+          title="CRM clone"
           des="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente
           aliquid saepe porro consequuntur a debitis cupiditate repellat quia
           officiis, exercitationem, voluptatem laudantium eum dolorum. Sint
           perspiciatis fuga corporis voluptates voluptate."
-          listItem={["React", "Tailwind CSS", "sd"]}
-          link="www.google.com"
+          listItem={["React", "useContext"]}
+          link="https://github.com/Kemal98/CRM-clone"
         />
 
         {showMore && (
@@ -82,13 +80,13 @@ const Arhive = () => {
               transition={{ delay: 0.2 }}
             >
               <CardArhive
-                title="Educer Engligh Learing Academy"
+                title="Ecommerce App"
                 des="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente
           aliquid saepe porro consequuntur a debitis cupiditate repellat quia
           officiis, exercitationem, voluptatem laudantium eum dolorum. Sint
           perspiciatis fuga corporis voluptates voluptate."
-                listItem={["React", "Tailwind CSS", "sd"]}
-                link="www.google.com"
+                listItem={["React", "Node.Js", "Express", "Socket.Io"]}
+                link="https://github.com/Kemal98/Ecommerce-Website"
               />
             </motion.div>
             <motion.div
@@ -97,13 +95,13 @@ const Arhive = () => {
               transition={{ delay: 0.3 }}
             >
               <CardArhive
-                title="Educer Engligh Learing Academy"
+                title="Social Network App"
                 des="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente
           aliquid saepe porro consequuntur a debitis cupiditate repellat quia
           officiis, exercitationem, voluptatem laudantium eum dolorum. Sint
           perspiciatis fuga corporis voluptates voluptate."
-                listItem={["React", "Tailwind CSS", "sd"]}
-                link="www.google.com"
+                listItem={["HTML", "CSS", "JavaScript(OOP)"]}
+                link="https://github.com/Kemal98/Social-Network"
               />
             </motion.div>
             <motion.div
@@ -112,13 +110,13 @@ const Arhive = () => {
               transition={{ delay: 0.4 }}
             >
               <CardArhive
-                title="Educer Engligh Learing Academy"
+                title="Weather App"
                 des="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente
           aliquid saepe porro consequuntur a debitis cupiditate repellat quia
           officiis, exercitationem, voluptatem laudantium eum dolorum. Sint
           perspiciatis fuga corporis voluptates voluptate."
-                listItem={["React", "Tailwind CSS", "sd"]}
-                link="www.google.com"
+                listItem={["HTML", "CSS", "JavaScript", "Weather Api"]}
+                link="https://github.com/Kemal98/Weather-App"
               />
             </motion.div>
           </>
