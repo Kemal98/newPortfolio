@@ -12,7 +12,7 @@ import { RxOpenInNewWindow } from "react-icons/rx";
 
 const Project = () => {
   return (
-    <div className="max-w-container mx-auto mdl:px-24 xl:px-4 px-2 py-24">
+    <div className="max-w-container mx-auto mdl:px-24  px-2 py-24">
       <SectionTitle title="Some Things I have Built" />
       <div className="w-full flex flex-col items-center justify-between gap-28 mt-10">
         <div className="w-full flex flex-col  items-center justify-center gap-28 mt-10 ">

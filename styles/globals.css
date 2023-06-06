@@ -15,3 +15,7 @@
   color:#64ffda;
 }
 
+.nav::-webkit-scrollbar {
+  width: 5px; /* Širina trake */
+}
+

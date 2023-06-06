@@ -12,7 +12,7 @@ const RootLayout = ({ children }) => {
   return (
     <html lang="en">
       <body>
-        <div className="w-full h-screen font-bodyFont bg-bodyColor text-textLight overflow-x-hidden overflow-y-scroll scrollbar scrollbar-track-textDark/30 scrollbar-thumb-textDark">
+        <div className="w-full h-screen font-bodyFont bg-bodyColor text-textLight overflow-x-hidden overflow-y-scroll scrollbar scrollbar-track-textDark/30 nav scrollbar-thumb-textDark">
           <Navbar />
           <main className="app">{children}</main>
         </div>
