@@ -100,7 +100,7 @@ const Arhive = () => {
           aliquid saepe porro consequuntur a debitis cupiditate repellat quia
           officiis, exercitationem, voluptatem laudantium eum dolorum. Sint
           perspiciatis fuga corporis voluptates voluptate."
-                listItem={["HTML", "CSS", "JavaScript(OOP)"]}
+                listItem={["HTML", "CSS", "JavaScript (OOP)"]}
                 link="https://github.com/Kemal98/Social-Network"
               />
             </motion.div>
