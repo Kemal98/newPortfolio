@@ -12,7 +12,7 @@ import { RxOpenInNewWindow } from "react-icons/rx";
 
 const Project = () => {
   return (
-    <div className="max-w-container mx-auto mdl:px-24  px-2 py-24">
+    <div id="project" className="max-w-container mx-auto mdl:px-24  px-2 py-24">
       <div className="w-full flex flex-col items-start">
         <h2 className="text-3xl font-titleFont font-semibold">My projects</h2>
         {/* <p className="text-sm font-titleFont text-textGreen">

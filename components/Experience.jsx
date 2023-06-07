@@ -15,7 +15,7 @@ const Experience = () => {
       className="max-w-containerxs mx-auto py-4 lgl:py-10 mdl:px-24 xl:px-4 px-2"
     >
       <SectionTitle title="Where I have worked" />
-      <div className="w-full mdl:h-[60vh] mt-10 flex flex-col md:flex-row gap-16">
+      <div className="w-full mdl:h-[30vh] mt-10 flex flex-col md:flex-row gap-16">
         <ul className="md:w-36 flex flex-col">
           <li
             onClick={() => setWork("blue")}

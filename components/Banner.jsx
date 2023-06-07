@@ -34,14 +34,14 @@ const Banner = () => {
         JavaScript, React, Next.Js, TypeScript, Tailwind, Material Ui and
         Bootstrap. I am passionate about creating visually appealing and
         intuitive web applications and websites that offer a superior user
-        experience...
+        experience.
         {/* <br/> */}
-        <a href="*">
+        {/* <a href="*#about">
           <span className="text-textGreen inline-flex relative cursor-pointer h-7 group overflow-x-hidden">
             Learn more
             <span className="bg-textGreen absolute w-full h-[1px] left-0 bottom-1 -translate-x-[110%] group-hover:translate-x-0  tranisition-transform duration-500"></span>
           </span>
-        </a>
+        </a> */}
       </motion.p>
       <motion.button
         initial={{ y: 10, opacity: 0 }}

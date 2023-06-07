@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { AiFillThunderbolt } from "react-icons/ai";
-import profliePhoto from "../public/assets/profile.jpg";
+import profliePhoto from "../public/assets/myprofile1.png";
 import SectionTitle from "./SectionTitle";
 
 const About = () => {
@@ -15,36 +15,28 @@ const About = () => {
           <p>
             "Hello! I'm Kemal Merdan, a passionate and experienced software
             developer with a focus on creating innovative web applications.
-            Throughout my career, I have independently worked on a diverse range
-            of projects, including Movie App, Quizz App, E-commerce web shop,
-            Coin App, CRM-clone, Weather App, and Social Media App. These
-            projects have allowed me to sharpen my problem-solving skills and
-            deliver high-quality solutions tailored to client requirements. In
-            addition to my project work, I had the opportunity to enhance my
-            skills through a three-month internship at an Austrian company,
-            where I gained valuable insights into the industry's best practices.
-            I also have freelancing experience, where I successfully completed
-            two projects. One involved developing a comprehensive control panel,
-            while the other focused on redesigning an existing application.
-            These experiences have taught me the importance of adaptability and
-            effective communication with clients, enabling me to deliver optimal
-            results. During my freelancing journey, I had the privilege of
-            collaborating with Unimetal, where I created a visually stunning
-            website that showcased their brand and offerings. This experience
-            honed my ability to understand and translate client requirements
-            into captivating web experiences. I am well-versed in working with
-            REST API and GraphQL, implementing both approaches to build robust
-            and efficient systems. Furthermore, I have expertise in Node.js,
-            Express, and Mongoose, enabling me to develop scalable and
-            performant applications. As a dedicated developer, I am committed to
-            staying up-to-date with the latest industry trends and technologies.
-            I thrive on challenging projects that allow me to push my creative
-            boundaries and deliver exceptional software solutions. If you are
-            looking for a skilled and reliable developer for your next project,
-            I would be delighted to connect with you. Feel free to reach out to
-            me through email. Let's collaborate and bring your ideas to life!
-            Thank you for visiting my portfolio, and I look forward to the
-            opportunity of working together."{" "}
+            Throughout my career, I've worked independently on a diverse range
+            of projects, including applications such as Dashboard, App Memories,
+            Movie App, Quizz App, E- commerce web shop, New application,
+            CRM-clone, weather forecast application, social network application
+            and others. I have extensive experience in software development,
+            including a three-month internship at an Austrian company, where I
+            gained valuable insight into industry best practices. I also
+            successfully completed two freelancing projects, one of which
+            involved the development of a comprehensive control panel and the
+            other focused on the redesign of an existing application. During my
+            freelance journey, I had the privilege of working with Unimetal to
+            create a visually stunning website that showcased their brand and
+            offerings. My expertise includes working with REST API, as well as
+            knowledge of Node.js, Express and Mongoose, which allows me to
+            develop scalable and performant applications. As a dedicated
+            developer, I stay up to date with the latest trends and technologies
+            in the industry. I thrive on challenging projects that allow me to
+            fuel my creativity and deliver exceptional software solutions. If
+            you are looking for a professional and reliable developer for your
+            next project, I would be happy to connect with you. Feel free to
+            contact me via email. I look forward to the opportunity to work
+            together.
           </p>
           <ul className="max-w-[450px] text-sm font-titleFont grid grid-cols-2 gap-2 mt-6">
             <li className="flex items-center gap-2">

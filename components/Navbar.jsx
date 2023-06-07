@@ -128,7 +128,7 @@ const Navbar = () => {
             </Link>
           </ul>
 
-          <a href="/assets/Kemal_Merdan_CV" target="_blank">
+          <a href="/Kemal_Merdan_CV.pdf" target="_blank">
             <motion.button
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}

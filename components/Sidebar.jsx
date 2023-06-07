@@ -18,7 +18,10 @@ const Sidebar = () => {
             <BsGithub />
           </span>
         </a>
-        <a href="https://github.com/Kemal98" target="_blank">
+        <a
+          href="https://www.facebook.com/profile.php?id=100008043303175"
+          target="_blank"
+        >
           <span
             className="w-10 h-10 text-xl bg-hoverColor rounded-full inline-flex items-center justify-center
           hover:text-textGreen cursor-pointer hover:translate-y-2 transition-all duration-300"
@@ -26,7 +29,7 @@ const Sidebar = () => {
             <SlSocialFacebook />
           </span>
         </a>
-        <a href="https://github.com/Kemal98" target="_blank">
+        <a href="https://www.instagram.com/kemal_merdan_/" target="_blank">
           <span
             className="w-10 h-10 text-xl bg-hoverColor rounded-full inline-flex items-center justify-center
           hover:text-textGreen cursor-pointer hover:translate-y-2 transition-all duration-300"
@@ -34,7 +37,10 @@ const Sidebar = () => {
             <SlSocialInstagram />
           </span>
         </a>
-        <a href="https://github.com/Kemal98" target="_blank">
+        <a
+          href="https://www.linkedin.com/in/kemal-merdan-752584268/"
+          target="_blank"
+        >
           <span
             className="w-10 h-10 text-xl bg-hoverColor rounded-full inline-flex items-center justify-center
           hover:text-textGreen cursor-pointer hover:translate-y-2 transition-all duration-300"
