@@ -259,7 +259,7 @@ const Navbar = () => {
                       initial={{ y: 20, opacity: 0 }}
                       animate={{ x: 0, opacity: 1 }}
                       transition={{ delay: 0.7, ease: "easeIn" }}
-                      href="https://github.com/Kemal98"
+                      href="https://www.facebook.com/profile.php?id=100008043303175"
                       target="_blank"
                     >
                       <span className="mediaIcon">
@@ -270,7 +270,7 @@ const Navbar = () => {
                       initial={{ y: 20, opacity: 0 }}
                       animate={{ x: 0, opacity: 1 }}
                       transition={{ delay: 0.8, ease: "easeIn" }}
-                      href="https://github.com/Kemal98"
+                      href="https://www.instagram.com/kemal_merdan_/"
                       target="_blank"
                     >
                       <span className="mediaIcon">
@@ -281,7 +281,7 @@ const Navbar = () => {
                       initial={{ y: 20, opacity: 0 }}
                       animate={{ x: 0, opacity: 1 }}
                       transition={{ delay: 0.8, ease: "easeIn" }}
-                      href="https://github.com/Kemal98"
+                      href="https://www.linkedin.com/in/kemal-merdan-752584268/"
                       target="_blank"
                     >
                       <span className="mediaIcon">
