@@ -13,17 +13,38 @@ const About = () => {
       <div className="flex flex-col lgl:flex-row gap-16">
         <div className="w-full lgl:w-2/3 text-base text-textDark font-medium flex flex-col gap-4">
           <p>
-            I also spent three months on an internship in an Austrian company
-            and worked as a freelancer on two projects. One of these projects
-            was a control panel, and the other was a redesign of the
-            application. I also worked as a freelancer creating a website for
-            Unimetal. Through these experiences, I learned how to adapt to
-            different client requirements and efficiently solve software
-            development problems. I have experience working with REST API and
-            GraphQL, and I know how to implement and use both approaches. I hope
-            to have the opportunity to use this knowledge to help my clients in
-            future projects. I want to add that I have experience working with
-            Node.js, Express and Mongoose.
+            "Hello! I'm Kemal Merdan, a passionate and experienced software
+            developer with a focus on creating innovative web applications.
+            Throughout my career, I have independently worked on a diverse range
+            of projects, including Movie App, Quizz App, E-commerce web shop,
+            Coin App, CRM-clone, Weather App, and Social Media App. These
+            projects have allowed me to sharpen my problem-solving skills and
+            deliver high-quality solutions tailored to client requirements. In
+            addition to my project work, I had the opportunity to enhance my
+            skills through a three-month internship at an Austrian company,
+            where I gained valuable insights into the industry's best practices.
+            I also have freelancing experience, where I successfully completed
+            two projects. One involved developing a comprehensive control panel,
+            while the other focused on redesigning an existing application.
+            These experiences have taught me the importance of adaptability and
+            effective communication with clients, enabling me to deliver optimal
+            results. During my freelancing journey, I had the privilege of
+            collaborating with Unimetal, where I created a visually stunning
+            website that showcased their brand and offerings. This experience
+            honed my ability to understand and translate client requirements
+            into captivating web experiences. I am well-versed in working with
+            REST API and GraphQL, implementing both approaches to build robust
+            and efficient systems. Furthermore, I have expertise in Node.js,
+            Express, and Mongoose, enabling me to develop scalable and
+            performant applications. As a dedicated developer, I am committed to
+            staying up-to-date with the latest industry trends and technologies.
+            I thrive on challenging projects that allow me to push my creative
+            boundaries and deliver exceptional software solutions. If you are
+            looking for a skilled and reliable developer for your next project,
+            I would be delighted to connect with you. Feel free to reach out to
+            me through email. Let's collaborate and bring your ideas to life!
+            Thank you for visiting my portfolio, and I look forward to the
+            opportunity of working together."{" "}
           </p>
           <ul className="max-w-[450px] text-sm font-titleFont grid grid-cols-2 gap-2 mt-6">
             <li className="flex items-center gap-2">

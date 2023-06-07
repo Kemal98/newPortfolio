@@ -34,7 +34,8 @@ const Banner = () => {
         JavaScript, React, Next.Js, TypeScript, Tailwind, Material Ui and
         Bootstrap. I am passionate about creating visually appealing and
         intuitive web applications and websites that offer a superior user
-        experience.
+        experience...
+        {/* <br/> */}
         <a href="*">
           <span className="text-textGreen inline-flex relative cursor-pointer h-7 group overflow-x-hidden">
             Learn more
