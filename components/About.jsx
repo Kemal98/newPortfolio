@@ -95,7 +95,7 @@ const About = () => {
             </li>
           </ul>
         </div>
-        <div className="w-full lgl:w-1/3 h-80 relative group">
+{/*         <div className="w-full lgl:w-1/3 h-80 relative group">
           <div className="absolute w-full h-80 -left-6 -top-6 rounded-lg ">
             <div className="w-full h-full relative flex pl-6 lgl:pl-0">
               <Image
@@ -109,7 +109,7 @@ const About = () => {
               <div className="hidden lgl:inline-flex w-full z-10 h-80 absolute border-2 border-textGreen rounded-md group-hover:-translate-x-5 group-hover:-translate-y-4  transition-transform duration-300"></div>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );
